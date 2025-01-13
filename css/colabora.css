@@ -1,0 +1,26 @@
+*{
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.giff{
+    width: 70px;
+    height: 70px;
+}
+.titulo{
+    text-align: center;
+}
+.cuadrado{ 
+    position: absolute;
+    left: 33%;
+}
+.datos{
+    text-align: center;
+    background-color: #10345e;
+    width: 700px;           /* Ancho de 150 píxeles */
+    height: 400px;   
+    border-radius: 30px; 
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}

@@ -1,0 +1,28 @@
+*{
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.giff{
+    width: 70px;
+    height: 70px;
+}
+.titulo{
+    text-align: center;
+}
+.txiz img.imgbio{
+    width: 7%;
+    height: 10%;
+    float: right;
+    margin: 15px;
+}
+.txdr img.imgbio{
+    width: 7%;
+    height: 10%;
+    float: left;
+    margin: 15px;
+}
+p{
+    font-size: 20px;
+    margin: 15px;
+}

@@ -13,14 +13,19 @@
 .cuadrado{ 
     position: absolute;
     left: 33%;
+    padding-top: 50px;
 }
 .datos{
     text-align: center;
     background-color: #10345e;
     width: 700px;           /* Ancho de 150 píxeles */
-    height: 400px;   
+    height: 350px;   
     border-radius: 30px; 
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     padding: 10px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 5px;
 }

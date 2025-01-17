@@ -19,6 +19,23 @@
     <div class="titulo">
         <h1><img src="img/testimonios.gif" class="giff">Testimonios</h1>
     </div>
+    <div class="container">
+        <div class="datos colorv">
+            <img src="img/familia.png" class="">
+            <h1 class="tipos">Familia</h1>
+        </div>
+        <div class="datos colora">
+            <img src="img/sacerdotes.png" class="">
+            <h1 class="tipos">Sacerdotes</h1>
+        </div>
+        <div class="datos colorv">
+            <img src="img/amigosaca.png" class="">
+            <h1 class="tipos">Amigos de Acción Católica</h1>
+        </div>
+        <div class="datos colora">
+            <img src="img/juvesyprejus.png" class="">
+            <h1 class="tipos">Sus Prejus y Juves</h1>
+        </div>
 </body>
 
 

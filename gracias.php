@@ -19,9 +19,10 @@
     <div class="titulo">
         <h1><img src="img/gracias.gif" class="giff">Gracias</h1>
     </div>
-</body>
 
+<?php require_once "inferior.php"?>
 
 <script type='' src=''></script>
+</body>
 
 </html>

@@ -82,9 +82,10 @@
         En su velatorio hubo muchísima gente. Por supuesto jóvenes venidos de distintos lugares:D  de su barrio; de su parroquia; de otras Iglesias; compañeros del secundario; compañeros del estudio terciario. Tuvo su Misa Exequial, en la parroquia Santa Catalina y cuando pasó por la parroquia de Luján de Sarandí, junto con el sonar de las campanas a duelo, en el colegio Santo Tomas hicieron formar al personal y alumnos sobre la vereda para ver pasar al cortejo fúnebre. Sus restos mortales descansan en el cementerio de Avellaneda.
         </p><img>
     </div>
-</body>
 
+
+<?php require_once "inferior.php"?>
 
 <script type='' src=''></script>
-
+</body>
 </html>

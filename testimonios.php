@@ -44,9 +44,9 @@
                 <h1 class="tipos">Sus Prejus y Juves</h1>
             </div>
         </a>
-</body>
-
+</div>
+<?php require_once "inferior.php"?>
 
 <script type='' src=''></script>
-
+</body>
 </html>

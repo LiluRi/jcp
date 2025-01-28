@@ -30,9 +30,11 @@
             <p>Banco xxxxx</p>
         </div>
     </div>
-</body>
+    
+    <?php require_once "inferior.php"?>
+
 
 
 <script type='' src=''></script>
-
+</body>
 </html>

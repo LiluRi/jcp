@@ -236,3 +236,44 @@ header ul li a{
         }
     }
 }
+
+footer{
+    background-color: #242424;
+    width:100%;
+    position: absolute;
+    left:0px;
+    align-items: center;
+}
+footer section h6{
+    margin: 0px;
+    color: #6e6e6e;
+    font-size: 15px;
+}
+footer .linkedIn{
+    display: flex;
+    height: 40px;
+}
+
+footer .copyright{
+    display: flex;
+    height: 30px;
+
+}
+
+footer a{
+    cursor: pointer;
+    text-decoration: none;
+    color: #868686;
+}
+.escudo{
+    width: 30px;
+    height: 35px;
+    text-align: center;
+    align: center;
+    float:right;
+
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

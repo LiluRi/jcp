@@ -238,32 +238,32 @@ header ul li a{
 }
 
 footer{
-    background-color: #242424;
+    background-color: #d9d9d9;
     width:100%;
-    position: absolute;
+    position: fixed;
     left:0px;
     align-items: center;
+    bottom: 0;
+    padding: 3px;
 }
 footer section h6{
     margin: 0px;
-    color: #6e6e6e;
+    color: black;
     font-size: 15px;
 }
 footer .linkedIn{
     display: flex;
-    height: 40px;
 }
 
 footer .copyright{
     display: flex;
-    height: 30px;
 
 }
 
 footer a{
     cursor: pointer;
     text-decoration: none;
-    color: #868686;
+    color: black;
 }
 .escudo{
     width: 30px;

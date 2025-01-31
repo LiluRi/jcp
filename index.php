@@ -16,7 +16,7 @@
     
 <body>
     <div class="titulo">
-    <h1><img src="img/biografia.gif" class="giff">Biografía</h1>
+    <h1 class="bio"><img src="img/biografia.gif" class="giff">Biografía</h1>
     </div>
 
     <div class="txiz">

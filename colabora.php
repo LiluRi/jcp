@@ -13,7 +13,7 @@
         <title>Jorge Cristian Perez</title>
     </head>
 
-    <?php require_once "superior.php"?>
+<?php require_once "superior.php"?>
 
 <body>
     <div class="titulo">
@@ -31,9 +31,7 @@
         </div>
     </div>
     
-    <?php require_once "inferior.php"?>
-
-
+<?php require_once "inferior.php"?>
 
 <script type='' src=''></script>
 </body>

@@ -254,10 +254,8 @@ footer section h6{
 footer .linkedIn{
     display: flex;
 }
-
 footer .copyright{
-    display: flex;
-
+    text-align: center;
 }
 
 footer a{
@@ -266,11 +264,11 @@ footer a{
     color: black;
 }
 .escudo{
-    width: 30px;
-    height: 35px;
+    width: 35px;
+    height: 40px;
     text-align: center;
-    align: center;
     float:right;
+    margin-right: 10px;
 
 }
 .wrapper {

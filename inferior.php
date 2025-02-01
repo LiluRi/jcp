@@ -6,6 +6,6 @@
     <h6>©Jorge Cristian Perez -Todos los derechos reservados.</h6>
   </section>
   <section class="escudito">
-    <img src="img/aca.png" class="escudo">
+    <img src="img/escudobicolor.png" class="escudo">
   </section>
 </footer>

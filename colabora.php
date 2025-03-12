@@ -22,12 +22,10 @@
     <div class="cuadrado">
         <div class="datos">
             <p>Querés colaborar con esta causa?</p>
-            <p>Sumate y sé parte!!</p>
-            <p>Nombre y Apellido</p>
-            <p>CVU: 000000000000000000</p>
-            <p>Alias: xxxxxxxxx</p>
-            <p>CUIT/CUIL: 11111111</p>
-            <p>Banco xxxxx</p>
+            <p>Sumate y sé parte!!</p><br>
+            <p>Nombre y Apellido: Lucia Soledad Loricchio</p>
+            <p>Alias: causajorgeperez</p>
+            <p>CUIL: 27324716799</p>
         </div>
     </div>
     

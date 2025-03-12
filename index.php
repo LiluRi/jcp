@@ -20,19 +20,19 @@
     </div>
 
     <div class="txiz">
-        <img src="img/1.jpg" class="imgbio">
+        <img src="img/1.jpg" class="imgbio im1">
         <h1>Sus primeros años</h1>
         <p>Jorge Cristian Pérez, nació el 28 de septiembre de 1977 en CABA, Argentina. Hijo de Roberto Horacio Pérez y Mercedes Celeste Ferreyra, que se casaron en la parroquia Ntra. Sra. De Luján de Sarandí el 4 de mayo de 1961. Tenía dos hermanos varones mayores que él (Roberto y Gabriel) y una hermana menor (Rocío). Creció con su familia en la ciudad de Wilde. Fue bautizado a los tres meses de vida en la parroquia San José de Villa Domínico el 7 de enero del 1978.</p>
     </div>
     <div class="txdr">
-        <img src="img/2.jpg" class="imgbio">
+        <img src="img/2.jpg" class="imgbio im2">
         <h1>Sus hobbies</h1>
         <p>Al terminar el secundario decidió estudiar el profesorado de geografía, en el Instituto Superior Dr. Joaquin V. Gonzalez. Comentaba que los mapas en realidad no reflejaban la forma real de los continentes. Que como la tierra era redonda y los mapas planos, los países más cercanos a los polos están dibujados como más anchos y otras tantas cosas que a él le fascinaban. Tenía un modo apasionado de explicar las cosas que más le gustaban.
         Era hincha del Club Atlético Independiente. Tenía facilidad para practicar deportes (futbol, tenis y mucha bicicleta). Le encantaba la música, especialmente el Rock.
         </p><img>
     </div>
     <div class="txiz">
-        <img src="img/3.jpg" class="imgbio">
+        <img src="img/3.jpg" class="imgbio im3">
         <h1>El comienzo de su historia</h1>
         <p>Su papá falleció cuando él tenía 12 años. 
         Aproximadamente a los 16 años, se acercó a la parroquia Lujan de Sarandí, invitado por sus amigos y compañeros del colegio. En ese tiempo se fue integrando con los jóvenes de la Acción Católica. 
@@ -43,7 +43,7 @@
         </p><img>
     </div>
     <div class="txdr">
-        <img src="img/4.jpg" class="imgbio">
+        <img src="img/4.jpg" class="imgbio im4">
         <h1>Su relación con los demás y con Dios</h1>
         <p>Con su animación y cuidado acompañaba a los jóvenes de su edad o más pequeños no solo desde el lugar de delegado sino desde una profunda amistad y hermandad para con ellos. Jorge para muchos era como un hermano mayor y aquel que les mostró el camino hacia Jesús. 
         En su familia era el “bueno”, buscaba siempre el equilibrio de las cosas, era hijo, hermano o amigo según lo que el otro necesitara y siempre involucrando a Jesús en todo. Gozaba de una opinión más que favorable de parte de la comunidad, ya que era un joven maduro para su edad. 
@@ -52,19 +52,19 @@
         </p><img>
     </div>
     <div class="txiz">
-        <img src="img/5.jpg" class="imgbio">
+        <img src="img/5.jpg" class="imgbio im5">
         <h1>Vocación</h1>
         <p>En la segunda parte del año 1997, hizo una experiencia vocacional de tres días, en el seminario Mayor de Villa Mercedes, Provincia de Buenos Aires.  Esa experiencia le ayudó a afirmar más su vocación como joven cristiano laico en la parroquia; con sus amigos, la familia y el estudio.  </p><img>
     </div>
     <div class="txdr">
-        <img src="img/6.jpg" class="imgbio">
+        <img src="img/6.jpg" class="imgbio im6">
         <h1>Misionero</h1>
         <p>En enero de 1998 fue parte del grupo misionero que existía en la parroquia. En ese verano fueron al paraje Los Rosales, del departamento de Anta, provincia de Salta, dónde ayudó y se dejó ayudar por las buenas personas de ese lugar. 
         En 1999 compartió con la comunidad de la parroquia Ntra. Sra. Del Rosario, en la localidad de 9 de Julio en la provincia de San Juan, una Semana Santa entera, ayudando al párroco de allí y compartiendo experiencias de vida con los jóvenes. Quedó tan vinculado, que meses después, volvió allí, adelantándose unos días a la Asamblea Federal de la Acción Católica Argentina, cuya sede iba a ser en la misma ciudad de San Juan. Se lo recuerda, entre otras cosas, como organizador de una noche heroica ante el Santísimo, con su guitarra, el canto y la oración. En esta provincia se lo recuerda muy bien hasta el día de hoy, particularmente en la localidad de 9 de Julio
         </p><img>
     </div>
     <div class="txiz">
-        <img src="img/7.jpg" class="imgbio">
+        <img src="img/7.jpg" class="imgbio im7">
         <h1>Sus esfuerzos para ir a la JMJ y su relación con los jóvenes </h1>
         <p>En el año 2000 en el mes de agosto se realizaba la JMJ en la ciudad de Roma: un acontecimiento tan esperado por muchos y especialmente por Jorge, quien pudo inscribirse y pagar algunas cuotas para participar de la misma. El dinero lo obtenía como fruto de su esfuerzo y trabajo. Jorge custodiaba y cuidaba del templo parroquial de Luján de Sarandí, durante las mañanas de los días hábiles de la semana. 
         Los sábados a la mañana, limpiaba los patios de un colegio privado que estaba a unos metros de la Iglesia (Colegio Santo Tomás). Siempre vinculado con los jóvenes de la parroquia de Santa Catalina, que tanto tiempo y amor puso en ellos. 
@@ -73,7 +73,7 @@
         </p><img>
     </div>
     <div class="txdr">
-        <img src="img/8.jpg" class="imgbio">
+        <img src="img/8.jpg" class="imgbio im8">
         <h1>Su fallecimiento </h1>
         <p>En su último fin de semana de vida, trabajó esa mañana del sábado en el colegio Santo Tomas; participó de las actividades parroquiales con los jóvenes como todos los sábados en Dock Sud; asistió de la misa de 19hs en la Iglesia Jubilar de Luján de Sarandí, que era una de las tres designadas para ganar indulgencias. Indulgencia que evidente buscó alcanzar. 
         Al día siguiente domingo 5 de marzo, participó de una convivencia con los jóvenes para planificar el año en un recreo de Villa Elisa, la que duró todo el día. 

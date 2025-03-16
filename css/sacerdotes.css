@@ -1,0 +1,134 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.inferior {
+    height: 80px;  /* Ajusta según la altura de inferior.php */
+}
+.container {
+    position: relative;
+    margin-bottom: 100px; /* Separa del footer */
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 60%;
+    width: 100%;
+    flex: 1;  /* Hace que el contenido ocupe el espacio restante */
+    overflow-y: auto; /* Permite scroll si es necesario */
+    margin: auto;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+    border-radius: 15px;
+    padding: 20px;
+    color: white;
+    font-size: 16px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.card-content {
+    overflow: hidden;
+}
+
+.more-text {
+    display: none; /* Texto oculto por defecto */
+}
+
+.card.expanded .more-text {
+    display: inline;
+}
+
+.expanded {
+    -webkit-line-clamp: unset; /* Mostrar todo el texto */
+}
+
+.green { background-color: #006b00; }
+.blue { background-color: #0b3d91; }
+
+.card img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 15px;
+    margin-left: -20px;
+}
+
+
+.card-content {
+    flex: 1;
+}
+
+
+.texto.expandido {
+    max-height: 500px; /* Altura cuando se expande (ajusta según necesidad) */
+    margin-top: 80px; /* Espacio extra arriba para que no quede tapado */
+}
+
+.nombre{
+    font-size: 23px;
+}
+/* Estilo para ocultar texto después de 3 líneas */
+.text {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    
+}
+p{
+    text-indent: 20px;
+    margin: 10px;
+}
+/* Clases dinámicas */
+.expanded {
+    -webkit-line-clamp: unset; /* Mostrar todo el texto cuando se expande */
+}
+.toggle-btn {
+    margin-top: 10px;
+    background-color: #d9d9d9;
+    color: black;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.5s;
+    float: right;
+}
+
+.toggle-btn:hover {
+    background-color: #ddd;
+}
+.ver-mas {
+    background: rgba(255, 255, 255, 0.2);
+    color: grey;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+.ver-mas:hover {
+    background: rgba(255, 255, 255, 0.4);
+}
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+    }
+}

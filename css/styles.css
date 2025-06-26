@@ -279,13 +279,24 @@ footer a{
     color: black;
 }
 .escudo{
-    width: 35px;
-    height: 40px;
+    width: 40px;
+    height: 45px;
     text-align: center;
     float:right;
     margin-right: 10px;
+}
+.redes{
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    float:right;
+    margin-top: 5px;
 
 }
+.red{
+    margin-right: 30px;
+}
+
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

@@ -10,6 +10,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap" rel="stylesheet"> <!--Fuente nombre -->
         <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&family=Roboto:wght@500&display=swap" rel="stylesheet">
+	<link rel="icon" type="image" href="img/logo.jpg">
         <title>Jorge Cristian Perez</title>
     </head>
 <?php require_once "superior.php"?>
@@ -83,6 +84,12 @@
             En su velatorio hubo muchísima gente. Por supuesto jóvenes venidos de distintos lugares:D  de su barrio; de su parroquia; de otras Iglesias; compañeros del secundario; compañeros del estudio terciario. Tuvo su Misa Exequial, en la parroquia Santa Catalina y cuando pasó por la parroquia de Luján de Sarandí, junto con el sonar de las campanas a duelo, en el colegio Santo Tomas hicieron formar al personal y alumnos sobre la vereda para ver pasar al cortejo fúnebre. Sus restos mortales descansan en el cementerio de Avellaneda.
             </p><img>
         </div>
+    </div>
+
+    <div class="siervo">
+        <h1>Causa de beatificación y canonización</h1>
+        <p>Carta del obispo de Avellaneda - Lanús que invita a todos los fieles a comunicar información útil, ya sea favorable o contraria a la fama de santidad, relativa a su vida y testimonio cristiano, cualquier escrito o documento relacionado con el siervo de Dios.</p>
+        <img src="img/JorgeSiervo.jpg" alt="Jorge Siervo">
     </div>
 
 

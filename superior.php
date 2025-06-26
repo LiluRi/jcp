@@ -1,6 +1,6 @@
 <body>
 <header id="header">
-		<a href="index.php" class="logo"><img class="logo-img" src="img/logo.jpg" alt="Jorge Cristian Perez">Jorge Cristian Perez</a>
+		<a href="index.php" class="logo"><img class="logo-img" src="img/logo.jpg" alt="Jorge Cristian Perez">Siervo de Dios <br>Jorge Cristian Perez</a>
     <div class="respmenu">
         <input type="checkbox">
         <i class="fas fa-bars"></i>

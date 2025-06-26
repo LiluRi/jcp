@@ -10,6 +10,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap" rel="stylesheet"> <!--Fuente nombre -->
         <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&family=Roboto:wght@500&display=swap" rel="stylesheet">
+	<link rel="icon" type="image" href="img/logo.jpg">
         <title>Jorge Cristian Perez</title>
     </head>
 

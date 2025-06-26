@@ -10,6 +10,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap" rel="stylesheet"> <!--Fuente nombre -->
         <link href="https://fonts.googleapis.com/css2?family=Imperial+Script&family=Roboto:wght@500&display=swap" rel="stylesheet">
+	<link rel="icon" type="image" href="img/logo.jpg">
         <title>Jorge Cristian Perez</title>
     </head>
 
@@ -22,10 +23,11 @@
     <div class="cuadrado">
         <div class="datos">
             <p>Querés colaborar con esta causa?</p>
-            <p>Sumate y sé parte!!</p><br>
-            <p>Nombre y Apellido: Lucia Soledad Loricchio</p>
-            <p>Alias: causajorgeperez</p>
-            <p>CUIL: 27324716799</p>
+	    <p>Sumate y sé parte!!</p><br>
+                <p>Nombre y Apellido: Diocesis De Avellaneda - Lanus</p>
+                <p>Alias: Lujan.comunidad.viva</p>
+                <p>CUIT: 3060971459</p>
+
         </div>
     </div>
     

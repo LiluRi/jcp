@@ -130,7 +130,7 @@ p{
 @media screen and (max-width: 768px) { /*CELULARES*/
     .container {
         grid-template-columns: 1fr;
-        max-width: 70%;
+        max-width: 85%;
     }
     .giff{
       width: 50px;
@@ -147,10 +147,17 @@ p{
     header .logo {
       font-size: 30px;
   }
-    .footera{
+    .footer a{
       margin: 0;
     }
     footer section h6 {
         font-size: 8px;
+      }
+    .text {
+        -webkit-line-clamp: 18;
+
+      }
+    .expanded {
+         -webkit-line-clamp: unset; /* Mostrar todo el texto cuando se expande */
       }
   }

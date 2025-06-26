@@ -4,6 +4,20 @@
     font-style: normal;
 }
 
+.siervo{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: block;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.siervo img{
+  width: 700px;
+  padding-bottom: 50px;
+}
+
 .container{
   margin: 2% 7%;
 }
@@ -89,7 +103,7 @@ h1{
     margin-right: 0;
   }
   header .logo {
-    font-size: 30px;
+    font-size: 20px;
 }
   .txiz {
     margin: 0;
@@ -135,6 +149,18 @@ h1{
   .footera{
     margin: 0;
   }
+  .siervo{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.siervo img{
+  width: 400px;
+}
 }
 
 @media screen and (min-width: 768px) and (max-width: 1366px) { /*NOTEBOOKS*/

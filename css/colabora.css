@@ -27,12 +27,15 @@ body {
 .datos{
     text-align: center;
     background-color: #10345e;
-    width: 600px;           /* Ancho de 150 píxeles */
+    width: 650px;           /* Ancho de 150 píxeles */
     height: 270px;   
     border-radius: 30px; 
     color: white;
     font-size: 27px;
     padding: 10px;
+}
+.igjor{
+	color:white;
 }
 p{
     margin-top: 10px;
@@ -45,13 +48,13 @@ h1{
 @media screen and (max-width: 768px) {
     .datos{
         margin: 10px;
-        width: 450px;/* Ancho de 150 píxeles */
+        width: 350px;/* Ancho de 150 píxeles */
         font-size: 20px;
         height: fit-content;
 
     }
     .cuadrado {
-        left: 0%;
+        left: 3%;
         padding-top: 50px;
     }
 

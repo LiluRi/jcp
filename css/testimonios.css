@@ -54,41 +54,8 @@ h1{
         display: block;
     }
 
-    header ul{
-        position: relative;
-        display: block;
-        justify-content: center;
-        align-items: center;
-        margin-right: 20px;
-        margin-top: 100px;
-    }
-
-    header ul li{
-        margin-bottom: 15px;
-    }
-
-    .nav ul {
-        flex-direction: column;
-    }
     .giff{
         width: 50px;
         height: 50px;
-    }
-    header {
-        height: 70px;
-    }
-    .logo-img {
-        width: 50px;
-        height: 50px;
-        margin-right: 0;
-    }
-    header .logo {
-        font-size: 30px;
-    }
-    footer section h6 {
-        font-size: 8px;
-    }
-    .footera{
-        margin: 0;
     }
 }

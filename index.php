@@ -91,11 +91,6 @@
         <p>Carta del obispo de Avellaneda - Lanús que invita a todos los fieles a comunicar información útil, ya sea favorable o contraria a la fama de santidad, relativa a su vida y testimonio cristiano, cualquier escrito o documento relacionado con el siervo de Dios.</p>
         <img src="img/JorgeSiervo.jpg" alt="Jorge Siervo">
     </div>
-    <div class="siervo">
-        <h1>Misa de acción de gracias</h1>
-        <img src="img/misa.jpg" alt="Jorge Siervo">
-    </div>
-
 
 <?php require_once "inferior.php"?>
 

@@ -168,6 +168,9 @@ header ul li a{
 
 
 @media screen and (max-width: 768px) {
+    .red{
+        margin-right: 0px !important;
+    }
     header ul{
         position: relative;
         display: block;
@@ -249,6 +252,9 @@ header ul li a{
         100%{
             transform: skew(0deg);
         }
+    }
+    .red{
+        margin-right: 0px;
     }
 }
 

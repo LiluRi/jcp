@@ -1,0 +1,99 @@
+*{
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo{
+    text-align: center;
+}
+.texto{
+    text-align: center;
+}
+p{
+    margin: 0;
+    font-size: 20px;
+}
+.cuadrado{ 
+    padding-top: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.datos{
+    text-align: center;
+    background-color: #10345e;
+    width: 500px;           /* Ancho de 150 píxeles */
+    border-radius: 30px; 
+    color: white;
+    font-size: 27px;
+    padding: 20px;
+}
+.igjor{
+	color:white;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .datos{
+        margin: 10px;
+        width: 350px;/* Ancho de 150 píxeles */
+        font-size: 20px;
+        height: fit-content;
+
+    }
+    .cuadrado {
+        left: 3%;
+        padding-top: 50px;
+    }
+
+    header ul{
+        position: relative;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-right: 20px;
+        margin-top: 100px;
+    }
+
+    header ul li{
+        margin-bottom: 15px;
+    }
+
+    .nav ul {
+        flex-direction: column;
+    }
+    .giff{
+        width: 50px;
+        height: 50px;
+    }
+    header {
+        height: 70px;
+    }
+    .logo-img {
+        width: 50px;
+        height: 50px;
+        margin-right: 0;
+    }
+    header .logo {
+        font-size: 30px;
+    }
+    footer section h6 {
+        font-size: 8px;
+    }
+    .footera{
+        margin: 0;
+    }
+}

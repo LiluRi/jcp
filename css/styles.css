@@ -4,6 +4,16 @@ body{
     margin-top: 100px;
     background-attachment: fixed;
 }
+.sup{
+    flex: 1;
+    margin: 0;
+    font-size: 40px;
+}
+.inf{
+    flex: 1;
+    margin: 0;
+    font-size: 30px;
+}
 
 .imperial-script-regular {
     font-family: "Imperial Script", cursive;
@@ -98,7 +108,6 @@ header .logo{
 	transition: 1.5s;
     padding-left: 15px;
     text-decoration: none;
-    font-size: 40px;
     align-items: center;
     font-family: "Imperial Script", cursive;
     font-weight: 100;
@@ -181,6 +190,21 @@ header ul li a{
   }
   header .logo {
     font-size: 30px;
+}
+.nombre{
+    align-items: left;
+}
+.sup{
+    flex: 1;
+    margin: 0;
+    font-size: 20px;
+    margin: 0 !important;
+}
+.inf{
+    flex: 1;
+    margin: 0;
+    font-size: 10px;
+    margin: 0 !important;
 }
     header ul{
         position: relative;

@@ -24,7 +24,7 @@ p{
     font-size: 20px;
 }
 .cuadrado{ 
-    padding-top: 50px;
+    padding-top: 20px;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -57,10 +57,17 @@ h1{
     }
     .cuadrado {
         left: 3%;
-        padding-top: 50px;
+        padding-top: 15px;
     }
     .giff{
         width: 50px;
         height: 50px;
+    }
+    h1{
+    font-size: 20px;
+    padding-top: 0;
+    }
+    p {
+        font-size: 15px;
     }
 }

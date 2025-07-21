@@ -18,10 +18,10 @@
 
 <body>
     <div class="titulo">
-        <h1>Charlas</h1>
+        <h1 class="bio">Charlas</h1>
     </div>
     <div class="texto">
-            <h1>¿Queres conocer la vida del Siervo de Dios Jorge Cristian Perez?</h1>
+            <h2>¿Queres conocer la vida del Siervo de Dios Jorge Cristian Perez?</h2>
 	    <p>El grupo a cargo de la causa quiere compartir su historia con vos<br>
         Ofrecemos charlas y/o encuentros para colegios, grupos o instituciones y comunidades Parroquiales en general. Es una oportunidad única para profundizar en su vida, testimonio y legado.<br>
         Jorge nos inspira con su ejemplo de fe y compromiso. Si deseas que visitemos tu comunidad para compartir su mensaje, solo tenes que comunicarte con nosotros para coordinar</p><br> 

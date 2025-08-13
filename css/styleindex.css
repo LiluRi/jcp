@@ -65,24 +65,36 @@ h1{
   width: 10%;
 }
 .im2{
-  width: 13%;
+  width: 10%;
 }
 .im3{
-  width: 17%;
+  width: 10%;
 }
 .im4{
-  width: 23%;
-}
-.im5{
-  width: 8%;
-}
-.im6{
   width: 15%;
 }
-.im7{
+.im5{
   width: 18%;
 }
+.im6{
+  width: 18%;
+}
+.im7{
+  width: 25%;
+}
 .im8{
+  width: 10%;
+
+}.im9{
+  width: 18%;
+}
+.im10{
+  width: 13%;
+}
+.im11{
+  width: 15%;
+}
+.im12{
   width: 15%;
 }
 .footera{
@@ -116,23 +128,36 @@ h1{
     width: 40%;
   }
   .im3{
-    width: 50%;
+    width: 45%;
   }
   .im4{
     width: 50%;
   }
   .im5{
-    width: 30%;
-  }
-  .im6{
-    width: 40%;
-  }
-  .im7{
     width: 50%;
   }
+  .im6{
+    width: 50%;
+  }
+  .im7{
+    width: 55%;
+  }
   .im8{
+    width: 30%;
+  }
+    .im9{
     width: 45%;
   }
+    .im10{
+    width: 45%;
+  }
+    .im11{
+    width: 45%;
+  }
+    .im12{
+    width: 45%;
+  }
+
 
   .siervo{
   align-items: center;

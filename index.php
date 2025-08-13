@@ -60,7 +60,7 @@
         <div class="txiz">
             <img src="img/7.jpg" class="imgbio im7">
             <h1>Segundo contacto parroquial (Santa Catalina de Siena de Dock Sud)</h1>
-            <p>EA mediados del año 1995, llegó a la Parroquia Santa Catalina de Siena de Dock Sud invitado por Fernando, una persona de la comunidad, para que forme parte de los grupos nuevos de la JAC, recientemente oficializados. Se integra allí hasta oficializarse (signo que se realiza dentro de la institución en el que se comprometen para toda la vida) y comienza un camino constitutivo en la recepción de los sacramentos y de vida interior muy intenso en el encuentro personal con Cristo. Todo el año 1996 transita un itinerario catequístico con otros jóvenes preparándose para recibir los sacramentos que le estaban faltando. Así, 2 de noviembre de 1996 recibe la 1era Comunión en la misma parroquia y el 9 de noviembre recibe el sacramento de la Confirmación aprovechando el paso del Obispo de Avellaneda Mons. Rubén Di Monte, siendo su Madrina Nancy Fior.  El 24 de noviembre de 1996, en la Festividad de Cristo Rey, en la Parroquia Santa Rosa de Lima de Wilde es oficializado en la A.C.A.</p>
+            <p>En mediados del año 1995, llegó a la Parroquia Santa Catalina de Siena de Dock Sud invitado por Fernando, una persona de la comunidad, para que forme parte de los grupos nuevos de la JAC, recientemente oficializados. Se integra allí hasta oficializarse (signo que se realiza dentro de la institución en el que se comprometen para toda la vida) y comienza un camino constitutivo en la recepción de los sacramentos y de vida interior muy intenso en el encuentro personal con Cristo. Todo el año 1996 transita un itinerario catequístico con otros jóvenes preparándose para recibir los sacramentos que le estaban faltando. Así, 2 de noviembre de 1996 recibe la 1era Comunión en la misma parroquia y el 9 de noviembre recibe el sacramento de la Confirmación aprovechando el paso del Obispo de Avellaneda Mons. Rubén Di Monte, siendo su Madrina Nancy Fior.  El 24 de noviembre de 1996, en la Festividad de Cristo Rey, en la Parroquia Santa Rosa de Lima de Wilde es oficializado en la A.C.A.</p>
         </div>
         <div class="txdr">
             <img src="img/8.jpg" class="imgbio im8">
@@ -68,7 +68,7 @@
             <p>Jorge Cristian Pérez junto con la gracia de los sacramentos de la Primera Comunión y Confirmación, descubre las riquezas de la Dirección Espiritual y la frecuencia del sacramento de la Penitencia lo que lo hace crecer notablemente en su vida interior.  Un sacerdote, que frecuentemente veía los fines de semana a colaborar pastoralmente a la parroquia Santa Catalina de Siena, desde el confesonario, es el instrumento de Dios para esta nueva etapa de amistad con Jesús. Le abre nuevos horizontes en la oración y el apostolado. Esto queda muy bien reflejado en un cuaderno espiritual dónde va haciendo sus anotaciones en la presencia de Dios. Refleja un plan de vida interior al cual buscaba exigirse día a día y otras anotaciones de una gran riqueza espiritual. Crece en él una gran devoción a la Eucaristía y la Virgen; se inspira mucho en la vida y devoción a San Josemaría Escrivá (en aquel tiempo Beato) leyendo alguna de sus publicaciones, especialmente el muy conocido libro “Camino” (es un libro escrito por este santo sacerdote que ayuda a madurar y crecer en la fe) y se va manifestando exteriormente en la inquietud de hablar de Dios con los demás y la mejora de sus compromisos.  Comenzó a asomar en Jorge su capacidad de líder llevando con orgullo y alegría el escudo de la ACA</p>
         </div>
         <div class="txiz">
-            <img src="img/5.jpg" class="imgbio im5">
+            <img src="img/9.jpg" class="imgbio im9">
             <h1>Jorge testigo de la fe</h1>
             <p>   Con su animación y cuidado (la guitarra al hombro y una gran habilidad deportiva) acompañaba a los jóvenes de su edad o más pequeños, no sólo desde el lugar de dirigente, sino desde una profunda amistad y hermandad para con ellos, pues el tenía carisma para acompañar a otros jóvenes al encuentro con Jesús y su actitud generosa que lo llevo a constituir los grupos de la Acción Católica en la Parroquia Santa Catalina de Siena de Dock Sud.  Desde el año de 1997 se hace responsable de la delegación como dirigente de pre juveniles y muestra allí todo su potencial cristiano de líder convocante y atrayente de jóvenes para Dios.     
    Jorge para muchos era como un hermano mayor y aquel que les mostró el camino hacia Jesús. 	Era un joven muy querido en su comunidad, maduro para su edad. Tenía un modo apasionado de explicar las cosas que más le inquietaban. Por ejemplo, en la búsqueda de la santidad, no sólo pensando en él, sino que quería la perfección para todos los demás, especialmente para sus amigos. 
@@ -82,12 +82,12 @@
 </p>
         </div>
         <div class="txdr">
-            <img src="img/6.jpg" class="imgbio im6">
+            <img src="img/10.jpg" class="imgbio im10">
             <h1>San Juan de Cuyo</h1>
             <p>En la provincia de San Juan se lo recuerda muy bien hasta el día de hoy, particularmente en la localidad de 9 de Julio. En el año 1999, compartió con la comunidad de la Parroquia Ntra. Sra. Del Rosario, una Semana Santa completa, colaborando con el párroco (quien lo supo acompañar en su momento espiritualmente). Allí pudo compartir experiencias de vida con los jóvenes de ese lugar, oraciones y celebraciones litúrgicas.  Quedó tan vinculado a esa gente, que meses después volvió a ese pueblo, adelantándose unos días a la “Asamblea Federal de la Acción Católica Argentina”, cuya sede fue en la capital de esa misma provincia. Se lo recuerda, entre otras cosas, como organizador de una noche heroica ante el Santísimo Sacramento, con su guitarra, el canto y la animación espiritual.</p>
         </div>
         <div class="txiz">
-            <img src="img/7.jpg" class="imgbio im7">
+            <img src="img/11.jpg" class="imgbio im11">
             <h1>Jorge y su familia</h1>
             <p>En su familia era considerado el bueno, buscaba siempre el equilibrio de las cosas, era hijo, hermano o amigo según lo que el otro necesitase y tratando de involucrar a Jesús en
  todo.  Ayuda y colabora en su casa en el orden y busca poner manto de paciencia y misericordia en el trato con sus hermanos, especialmente con Gabriel y Rocío. 
@@ -97,7 +97,7 @@ no recibieron bien esta noticia: a su mamá le costó mucho esa situación no es
 </p>
         </div>
         <div class="txdr">
-            <img src="img/8.jpg" class="imgbio im8">
+            <img src="img/12.jpg" class="imgbio im12">
             <h1>De querer ir a Roma se fue al Cielo</h1>
             <p>   Jorge vivió intensamente los tres años de preparación para el gran Jubileo del año del 2000. Siguió el itinerario propuesto por la Iglesia en honor a la Santísima Trinidad contemplado la figura de Dios Padre, Dios Hijo y Dios Espíritu Santo.  	  
    Pudo inscribirse y abonar algunas cuotas con el fin de participar de la “Jornada Mundial de la Juventud” (JMJ) a realizarse en Roma en el año jubilar. La mañana del sábado del último fin de semana de su vida, trabajó en el colegio Santo Tomás. 

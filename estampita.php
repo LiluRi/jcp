@@ -20,8 +20,9 @@
     <div class="titulo">
         <h1 class="bio">Estampita</h1>
     </div>
-    <div class="texto">
-
+    <div class="">
+        <img src="">
+        <img src="">
     </div>
     
 <?php require_once "inferior.php"?>

@@ -14,6 +14,7 @@
             <nav id="menu-hamburguesa">
                 <ul>
                     <li><a href="index.php">Biografía</a></li>
+                    <li><a href="galeria.php">Galería</a></li>
                     <li><a href="testimonios.php">Testimonios</a></li>
                     <li><a href="charlas.php">Charlas</a></li>
                     <li><a href="colabora.php">Colaborá acá!</a></li>

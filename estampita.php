@@ -20,9 +20,21 @@
     <div class="titulo">
         <h1 class="bio">Estampita</h1>
     </div>
-    <div class="">
-        <img src="">
-        <img src="">
+    <div class="estam">
+        <img src="img/est1.png" class="est">
+        <img src="img/est2.png" class="est">
+    </div>
+    <div class="textito">
+        <p class="texto">
+            En la mañana del 12 de agosto de 2025, en la capilla de la Curia Diocesana, se celebró la Apertura de la fase diocesana del proceso de beatificación y canonización del Siervo de Dios Jorge Cristian Pérez.
+            <br>La ceremonia fue presidida por Monseñor Margni, con la presencia de:
+            <br>🙏 Postuladora: Dra. María Rosa Saad
+            <br>🙏 Delegado Episcopal: Pbro. Gabriel Luciano Favero
+            <br>🙏 Promotor de Justicia: Pbro. Cristian Ariel Ugarte
+            <br>🙏 Notaria: Lic. Gabriela Soledad Tkach
+            <br>Encomendamos este camino a la intercesión del Siervo de Dios, para que su testimonio de fe siga iluminando nuestras vidas.
+        </p> 
+        <a href="https://www.instagram.com/p/DNRXMqYS_rG/" class="fotos">Mira las fotos acá!</a>       
     </div>
     
 <?php require_once "inferior.php"?>

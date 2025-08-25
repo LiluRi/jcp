@@ -18,7 +18,7 @@
 
 <body>
     <div class="titulo">
-        <h1 class="bio">Charlas</h1>
+        <h1><img src="img/charlas.gif" class="giff">Charlas</h1>
     </div>
     <div class="texto">
             <h2>¿Queres conocer la vida del Siervo de Dios Jorge Cristian Perez?</h2>

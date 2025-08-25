@@ -16,7 +16,7 @@
     
 <body>
     <div class="titulo">
-    <h1 class="bio">Galería de fotos</h1>
+        <h1><img src="img/galeria.gif" class="giff">Galería de fotos</h1>
     </div>
 <!--galeria -->
     <div class="gallery">

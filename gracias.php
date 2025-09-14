@@ -46,6 +46,14 @@
             </div>
         </div>
     </div>
+    <div>
+        <p class="aclaracion">Aclaración: Las gracias se van a ir renovando,<br>
+        si queres compartir alguna Gracia recibida podes comunicarlo a: <br>
+        <a href="https://wa.me/5491131424423" class="btn-wsp igjor"><i class="fa-brands fa-whatsapp"></i>David Rodriguez</a><br>
+        <a href="https://wa.me/5491158910786" class="btn-wsp igjor"><i class="fa-brands fa-whatsapp"></i>Lucas Bordona</a><br>
+        <a href="https://wa.me/5491121596865" class="btn-wsp igjor"><i class="fa-brands fa-whatsapp"></i>Matias Bordona</a><br>
+        </p>
+    </div>
 
 
     <div class="inferior">

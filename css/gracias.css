@@ -132,6 +132,10 @@ p{
 .ver-mas:hover {
     background: rgba(255, 255, 255, 0.4);
 }
+.aclaracion{
+    font-size: 20px;
+    text-align: center;
+}
 
 @media screen and (max-width: 768px) { /*CELULARES*/
     .container {
